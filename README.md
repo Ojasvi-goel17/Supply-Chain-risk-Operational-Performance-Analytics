@@ -1,5 +1,15 @@
 Supply Chain Risk, Operations & Performance Analytics
 
+<img width="610" height="373" alt="Screenshot 2026-09-09 224501" src="https://github.com/user-attachments/assets/861724a1-e03a-469d-aabc-d00723d12edb" />
+
+<img width="671" height="379" alt="Screenshot 2026-09-09 224438" src="https://github.com/user-attachments/assets/75c583ff-5e61-4202-a201-05d3a0740178" />
+
+<img width="574" height="371" alt="Screenshot 2026-09-09 224334" src="https://github.com/user-attachments/assets/a328b716-c9fb-42ad-835f-66cb6b696ae3" />
+
+<img width="617" height="374" alt="Screenshot 2026-09-09 224416" src="https://github.com/user-attachments/assets/33458dcb-647f-48ce-af3d-65aad444812e" />
+
+
+
 📌 Project Overview
 
 End-to-end analysis of 180K+ supply-chain records using Python, SQL Server, and Power BI to evaluate profitability, logistics performance, delivery risk, and financial exposure.
