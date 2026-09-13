@@ -67,4 +67,3 @@ Prioritize high-risk shipping modes and categories, review high-sales/low-margin
 
 Built a management-oriented supply-chain intelligence solution connecting profitability, logistics performance, delivery risk, and financial exposure to support data-driven operational decisions.
 
-This is the version I'd use on GitHub. It contains the substance without turning the README into a project report.wer BI | DAX | Data Cleaning | Exploratory Data Analysis | Data Modeling | Business Intelligence | Supply Chain Analytics | Risk Analysis | Profitability Analysis
